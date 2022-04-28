@@ -9,3 +9,7 @@
 ## chapter 3 : animation
 
 <img src="./photo/3.jpg" style="zoom:15%;" />
+
+## chapter 4 : clock
+
+<img src="./photo/4.jpg" style="zoom:15%;" />

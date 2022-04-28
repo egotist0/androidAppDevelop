@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+attr? exampleColor
+attr? exampleDimension
+attr? exampleDrawable
+attr? exampleString
+color black
+color gray_400
+color gray_600
+color light_blue_400
+color light_blue_600
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bg_clock
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id clock
+id root
+layout activity_clock
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Lecture4
+style Widget.Theme.Lecture4.MyView
+styleable ClockView exampleString exampleDimension exampleColor exampleDrawable
