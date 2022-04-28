@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+animator like
+animator like_step1
+animator like_step2
+animator like_step3
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable coin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable like
+drawable store
+id coin
+id like
+id store
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw round_circle_loading
+string app_name
+style Theme.Lecture3

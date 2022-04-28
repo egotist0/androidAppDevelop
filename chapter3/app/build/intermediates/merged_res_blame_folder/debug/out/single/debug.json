@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/animator_like.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/animator/like.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/drawable_store.png.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/drawable/store.png"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/animator_like_step1.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/animator/like_step1.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/drawable_like.png.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/drawable/like.png"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/raw_round_circle_loading.json.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/raw/round_circle_loading.json"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/animator_like_step2.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/animator/like_step2.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/animator_like_step3.xml.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/animator/like_step3.xml"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/drawable_coin.png.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/drawable/coin.png"
+    },
+    {
+        "merged": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]
