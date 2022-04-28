@@ -2,6 +2,6 @@
 
 ## chapter 2 : leetcode app
 
-![](./photo/1.jpg)
+<img src="./photo/1.jpg" style="zoom: 25%;" />
 
-![](./photo/2.jpg)
+<img src="./photo/2.jpg" style="zoom:25%;" />
