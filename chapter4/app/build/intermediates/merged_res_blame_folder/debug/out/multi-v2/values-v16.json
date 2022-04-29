@@ -4,7 +4,7 @@
             "outputFile": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/egotist/.gradle/caches/transforms-3/52afda33ba279032acd202166e7fc9b4/transformed/core-1.7.0/res/values-v16/values-v16.xml",
+                    "source": "/home/egotist/.gradle/caches/transforms-2/files-2.1/9c612ea3cf04cd1784652341bdae6b78/core-1.6.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/egotist/.gradle/caches/transforms-3/4a164e9253d3321593a1416d792f12f3/transformed/appcompat-1.3.0/res/values-v16/values-v16.xml",
+                    "source": "/home/egotist/.gradle/caches/transforms-2/files-2.1/f2b844661f33c8dfb545e8dcba332f3e/appcompat-1.3.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bluixe.lecture4"
+    package="com.bytedance.compicatedcomponent"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="22"
-        android:targetSdkVersion="32" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="30" />
 
     <application
         android:allowBackup="true"
@@ -17,15 +17,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.Lecture4" >
+        android:theme="@style/Theme.CompicatedComponent" >
         <activity
-            android:name="com.bluixe.lecture4.ClockActivity"
-            android:exported="true" >
+            android:name="com.bytedance.compicatedcomponent.handler.HomepageActivity"
+            android:label="@string/title_activity_homepage"
+            android:theme="@style/Theme.CompicatedComponent.NoActionBar" >
+        </activity>
+        <activity android:name="com.bytedance.compicatedcomponent.handler.SplashActivity" >
+        </activity>
+        <activity android:name="com.bytedance.compicatedcomponent.homework.ClockActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.bytedance.compicatedcomponent.handler.DownloadVideoActivity" />
+        <activity android:name="com.bytedance.compicatedcomponent.handler.HandlerActivity" />
+        <activity android:name="com.bytedance.compicatedcomponent.thread.ThreadActivity" />
+        <activity android:name="com.bytedance.compicatedcomponent.view.CustomViewActivity" >
         </activity>
     </application>
 

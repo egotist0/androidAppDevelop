@@ -1,0 +1,2 @@
+com/bytedance/compicatedcomponent/BuildConfig.java
+ com.bytedance.compicatedcomponent.BuildConfig

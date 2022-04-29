@@ -4,7 +4,7 @@
             "outputFile": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/home/egotist/.gradle/caches/transforms-3/f354da7592ee0d722da994c5405f5919/transformed/material-1.4.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "/home/egotist/.gradle/caches/transforms-2/files-2.1/42bf532a49f535b685f3d792dd0863a3/material-1.4.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

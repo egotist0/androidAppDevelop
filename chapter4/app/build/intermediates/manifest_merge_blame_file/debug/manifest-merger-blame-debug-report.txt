@@ -1,21 +1,21 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.bluixe.lecture4"
+3    package="com.bytedance.compicatedcomponent"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="22"
+8        android:minSdkVersion="19"
 8-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="32" />
+9        android:targetSdkVersion="30" />
 9-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:5:5-21:19
+11-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:5:5-31:19
 12        android:allowBackup="true"
 12-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] /home/egotist/.gradle/caches/transforms-3/52afda33ba279032acd202166e7fc9b4/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.6.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/9c612ea3cf04cd1784652341bdae6b78/core-1.6.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
 15-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:7:9-43
@@ -26,25 +26,48 @@
 18        android:supportsRtl="true"
 18-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
-20        android:theme="@style/Theme.Lecture4" >
-20-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:11:9-46
+20        android:theme="@style/Theme.CompicatedComponent" >
+20-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:11:9-57
 21        <activity
-21-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:12:9-20:20
-22            android:name="com.bluixe.lecture4.ClockActivity"
-22-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:13:13-42
-23            android:exported="true" >
-23-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:14:13-36
-24            <intent-filter>
-24-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:15:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:16:17-69
-25-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:16:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:18:17-77
-27-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30    </application>
+21-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:12:9-16:20
+22            android:name="com.bytedance.compicatedcomponent.handler.HomepageActivity"
+22-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:13:13-53
+23            android:label="@string/title_activity_homepage"
+23-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:14:13-60
+24            android:theme="@style/Theme.CompicatedComponent.NoActionBar" >
+24-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:15:13-73
+25        </activity>
+26        <activity android:name="com.bytedance.compicatedcomponent.handler.SplashActivity" >
+26-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:17:9-18:20
+26-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:17:19-57
+27        </activity>
+28        <activity android:name="com.bytedance.compicatedcomponent.homework.ClockActivity" >
+28-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:19:9-25:20
+28-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:19:19-57
+29            <intent-filter>
+29-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:21:17-69
+30-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:21:25-66
 31
-32</manifest>
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:23:17-77
+32-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.bytedance.compicatedcomponent.handler.DownloadVideoActivity" />
+35-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:26:9-76
+35-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:26:19-64
+36        <activity android:name="com.bytedance.compicatedcomponent.handler.HandlerActivity" />
+36-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:27:9-61
+36-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:27:19-58
+37        <activity android:name="com.bytedance.compicatedcomponent.thread.ThreadActivity" />
+37-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:28:9-59
+37-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:28:19-56
+38        <activity android:name="com.bytedance.compicatedcomponent.view.CustomViewActivity" >
+38-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:29:9-30:20
+38-->/media/egotist/OS/UBUNTU/大三下/androidDevelop/chapter4/app/src/main/AndroidManifest.xml:29:19-58
+39        </activity>
+40    </application>
+41
+42</manifest>
