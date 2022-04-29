@@ -13,3 +13,7 @@
 ## chapter 4 : clock
 
 <img src="./photo/4.jpg" style="zoom:15%;" />
+
+## chapter 5 : translator
+
+<img src="./photo/5.jpg" style="zoom:15%;" />
