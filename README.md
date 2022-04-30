@@ -30,3 +30,16 @@
 <img src="./photo/6.jpg" style="zoom:15%;" />
 
 <img src="./photo/7.jpg" style="zoom:15%;" />
+
+## chapter 7 
+
++ 网络图片展示（动图+静图）
++ 支持左右滑动切换显示不同图片   
++ 网络视频播放、暂停、重播功能
++ 进度条展示，点击移动到制定位置
+
+<img src="./photo/8.jpg" style="zoom:15%;" />
+
+<img src="./photo/9.jpg" style="zoom:15%;" />
+
+<img src="./photo/10.jpg" style="zoom:15%;" />
