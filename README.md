@@ -43,3 +43,11 @@
 <img src="./photo/9.jpg" style="zoom:15%;" />
 
 <img src="./photo/10.jpg" style="zoom:15%;" />
+
+## chapter 8
+
++ 完成基本相机功能
+
++ 支持拍照和摄影
+
+  <img src="./photo/11.jpg" style="zoom:15%;" />

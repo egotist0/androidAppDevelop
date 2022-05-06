@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lecture8</string>
+    <string name="take_photo">拍照</string>
+    <string name="take_photo_path">拍照(指定路径)</string>
+    <string name="record">录制</string>
+</resources>
