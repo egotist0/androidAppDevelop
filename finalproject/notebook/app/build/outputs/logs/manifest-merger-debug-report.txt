@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/8371805e56b7bf03f97a4e86324328f8/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/2f94008dff1b4682a49158ab519d6d43/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/625aed1e19e002d1916f9ec542ed42b0/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f7dbe243cb04adfca6995ec451857e32/koin-android-2.2.0-rc-3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/egotist/.gradle/caches/transforms-2/files-2.1/ad06a454162cf940b6f6bf271c084d2d/fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/2bb5c2a1932d9ae38e1db3e9979ba761/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/3d0d54058683bf154c1170b007143919/core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/8ec5c4b6f4d4bd8f07d20aedfb2f3182/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/51f096d8597700f66564344b8f8cf605/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/0b163791e27893938390ba5ed37b0f0a/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/4b224d7cdf27936f6e641fdfaf01689b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/155852458d93fce39775edd8fcc4cff4/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/b19ac22e34dd1d0583da9789a16fc5c5/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/fd4cd1c312261257707a312fb2e1573a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/6b6aa433841917fc1d16688c7b951dc4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f6c51ca08705047b1de253fb8065d5af/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/eb709581255a4825a4926eaeb91b3484/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/36af5733169db15cd2a1e000ada2a16a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/cb65682cae659d57f21b6252b6df64ff/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/ecab3940c412834866ef0ac289283cf3/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/5608cd281c08df62b3d875beec66fc6c/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.2.5] /home/egotist/.gradle/caches/transforms-2/files-2.1/dd6f80483933db36d55ee9f0ad962e51/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/4dd8e0a4adc679dab4f10d2c5108e341/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/43aadf2152306a7ba846728f1bb30f46/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/fd3d15de6ccfb0c5755d7e8d9d9f68a7/activity-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/c3c4fc9d67a77d6deb1b394db620d3be/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/5a0a0080d8acb4a7e3670212309bc199/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/68c249a6232ab7880d07e56a1df2abd1/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/797d1bf0469b194271a6eced48811d31/lifecycle-runtime-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/96d82eac0237540b79bb017cce6d5809/lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/3cc0f6a1c3793be1cc258f294cc83e2f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/952e558422e8a35f1ca031441a43a15f/lifecycle-livedata-core-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/e50c20dcd7b7d57b89f21a9969b52613/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/20f2785c575be32190038b827fe46fd9/savedstate-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/215f901d8c881c4b7300ec8800587a52/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/acedb2061cfd0fb3c7f7612ae74b3e01/lifecycle-viewmodel-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f98f2ff198c6adf60b8266c8d2620c05/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:8:5-38:19
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/8371805e56b7bf03f97a4e86324328f8/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/8371805e56b7bf03f97a4e86324328f8/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/2f94008dff1b4682a49158ab519d6d43/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/2f94008dff1b4682a49158ab519d6d43/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/5608cd281c08df62b3d875beec66fc6c/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/5608cd281c08df62b3d875beec66fc6c/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/5a0a0080d8acb4a7e3670212309bc199/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/5a0a0080d8acb4a7e3670212309bc199/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/68c249a6232ab7880d07e56a1df2abd1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/68c249a6232ab7880d07e56a1df2abd1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/5a0a0080d8acb4a7e3670212309bc199/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:9:9-28
+activity#com.example.note.wallpaper
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:16:9-18:39
+	android:exported
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:17:13-38
+activity#com.example.note.EditActivity
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.example.note.MainActivity
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.note.UserSettingsActivity
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:27:9-58
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:27:19-55
+activity#com.example.note.translate.TranslateActivity
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:28:9-65
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:28:19-62
+provider#androidx.core.content.FileProvider
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:31:13-76
+	android:exported
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:30:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:34:13-36:54
+	android:resource
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:36:17-51
+	android:name
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:35:17-67
+uses-sdk
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/8371805e56b7bf03f97a4e86324328f8/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/8371805e56b7bf03f97a4e86324328f8/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/2f94008dff1b4682a49158ab519d6d43/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/2f94008dff1b4682a49158ab519d6d43/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/625aed1e19e002d1916f9ec542ed42b0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/625aed1e19e002d1916f9ec542ed42b0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-android:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f7dbe243cb04adfca6995ec451857e32/koin-android-2.2.0-rc-3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f7dbe243cb04adfca6995ec451857e32/koin-android-2.2.0-rc-3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/egotist/.gradle/caches/transforms-2/files-2.1/ad06a454162cf940b6f6bf271c084d2d/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/egotist/.gradle/caches/transforms-2/files-2.1/ad06a454162cf940b6f6bf271c084d2d/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/2bb5c2a1932d9ae38e1db3e9979ba761/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/2bb5c2a1932d9ae38e1db3e9979ba761/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/3d0d54058683bf154c1170b007143919/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/3d0d54058683bf154c1170b007143919/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/8ec5c4b6f4d4bd8f07d20aedfb2f3182/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/8ec5c4b6f4d4bd8f07d20aedfb2f3182/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/51f096d8597700f66564344b8f8cf605/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/51f096d8597700f66564344b8f8cf605/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/0b163791e27893938390ba5ed37b0f0a/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/0b163791e27893938390ba5ed37b0f0a/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/4b224d7cdf27936f6e641fdfaf01689b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/4b224d7cdf27936f6e641fdfaf01689b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/155852458d93fce39775edd8fcc4cff4/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/155852458d93fce39775edd8fcc4cff4/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/b19ac22e34dd1d0583da9789a16fc5c5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/b19ac22e34dd1d0583da9789a16fc5c5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/fd4cd1c312261257707a312fb2e1573a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/fd4cd1c312261257707a312fb2e1573a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/6b6aa433841917fc1d16688c7b951dc4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/6b6aa433841917fc1d16688c7b951dc4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f6c51ca08705047b1de253fb8065d5af/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f6c51ca08705047b1de253fb8065d5af/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/eb709581255a4825a4926eaeb91b3484/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/eb709581255a4825a4926eaeb91b3484/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/36af5733169db15cd2a1e000ada2a16a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/36af5733169db15cd2a1e000ada2a16a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/cb65682cae659d57f21b6252b6df64ff/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/cb65682cae659d57f21b6252b6df64ff/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/ecab3940c412834866ef0ac289283cf3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/ecab3940c412834866ef0ac289283cf3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/5608cd281c08df62b3d875beec66fc6c/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/5608cd281c08df62b3d875beec66fc6c/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/egotist/.gradle/caches/transforms-2/files-2.1/dd6f80483933db36d55ee9f0ad962e51/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/egotist/.gradle/caches/transforms-2/files-2.1/dd6f80483933db36d55ee9f0ad962e51/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/4dd8e0a4adc679dab4f10d2c5108e341/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/4dd8e0a4adc679dab4f10d2c5108e341/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/43aadf2152306a7ba846728f1bb30f46/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/43aadf2152306a7ba846728f1bb30f46/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/fd3d15de6ccfb0c5755d7e8d9d9f68a7/activity-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/fd3d15de6ccfb0c5755d7e8d9d9f68a7/activity-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/c3c4fc9d67a77d6deb1b394db620d3be/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/c3c4fc9d67a77d6deb1b394db620d3be/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/5a0a0080d8acb4a7e3670212309bc199/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/5a0a0080d8acb4a7e3670212309bc199/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/68c249a6232ab7880d07e56a1df2abd1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/68c249a6232ab7880d07e56a1df2abd1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/797d1bf0469b194271a6eced48811d31/lifecycle-runtime-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/797d1bf0469b194271a6eced48811d31/lifecycle-runtime-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/96d82eac0237540b79bb017cce6d5809/lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/96d82eac0237540b79bb017cce6d5809/lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/3cc0f6a1c3793be1cc258f294cc83e2f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/3cc0f6a1c3793be1cc258f294cc83e2f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/952e558422e8a35f1ca031441a43a15f/lifecycle-livedata-core-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/952e558422e8a35f1ca031441a43a15f/lifecycle-livedata-core-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/e50c20dcd7b7d57b89f21a9969b52613/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/e50c20dcd7b7d57b89f21a9969b52613/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/20f2785c575be32190038b827fe46fd9/savedstate-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/20f2785c575be32190038b827fe46fd9/savedstate-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/215f901d8c881c4b7300ec8800587a52/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/215f901d8c881c4b7300ec8800587a52/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/acedb2061cfd0fb3c7f7612ae74b3e01/lifecycle-viewmodel-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/acedb2061cfd0fb3c7f7612ae74b3e01/lifecycle-viewmodel-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f98f2ff198c6adf60b8266c8d2620c05/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f98f2ff198c6adf60b8266c8d2620c05/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml

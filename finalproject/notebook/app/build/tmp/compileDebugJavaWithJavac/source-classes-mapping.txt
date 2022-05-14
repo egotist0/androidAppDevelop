@@ -1,0 +1,194 @@
+com/example/note/translate/api2/Pic.java
+ com.example.note.translate.api2.Pic
+com/example/note/translate/api2/Tr.java
+ com.example.note.translate.api2.Tr
+com/example/note/translate/api2/Ws.java
+ com.example.note.translate.api2.Ws
+com/example/note/translate/api2/Basic_entries.java
+ com.example.note.translate.api2.Basic_entries
+com/example/note/translate/api2/Ec.java
+ com.example.note.translate.api2.Ec
+com/example/note/translate/api2/Web_trans.java
+ com.example.note.translate.api2.Web_trans
+com/example/note/translate/api2/Zh.java
+ com.example.note.translate.api2.Zh
+com/example/note/translate/api2/Pic_dict.java
+ com.example.note.translate.api2.Pic_dict
+com/example/note/translate/api2/Trs_classify.java
+ com.example.note.translate.api2.Trs_classify
+com/example/note/translate/api2/Exam_sents.java
+ com.example.note.translate.api2.Exam_sents
+com/example/note/translate/api2/Summarys.java
+ com.example.note.translate.api2.Summarys
+com/example/note/translate/api2/Collins.java
+ com.example.note.translate.api2.Collins
+com/example/note/translate/api2/Trans.java
+ com.example.note.translate.api2.Trans
+com/example/note/translate/api2/Exam.java
+ com.example.note.translate.api2.Exam
+com/example/note/translate/api2/Oxford.java
+ com.example.note.translate.api2.Oxford
+com/example/note/translate/api2/Phrs.java
+ com.example.note.translate.api2.Phrs
+com/example/note/translate/api2/Syno.java
+ com.example.note.translate.api2.Syno
+com/example/note/translate/api2/Wf.java
+ com.example.note.translate.api2.Wf
+com/example/note/translate/api2/Snippet.java
+ com.example.note.translate.api2.Snippet
+com/example/note/translate/api2/Video_sents.java
+ com.example.note.translate.api2.Video_sents
+com/example/note/translate/api2/Sc.java
+ com.example.note.translate.api2.Sc
+com/example/note/translate/api2/Ee.java
+ com.example.note.translate.api2.Ee
+com/example/note/translate/api2/Rel.java
+ com.example.note.translate.api2.Rel
+com/example/note/translate/api2/Similar_words.java
+ com.example.note.translate.api2.Similar_words
+com/example/note/translate/api2/Senior.java
+ com.example.note.translate.api2.Senior
+com/example/note/translate/api2/F.java
+ com.example.note.translate.api2.F
+com/example/note/translate/api2/Individual.java
+ com.example.note.translate.api2.Individual
+com/example/note/translate/api2/Rels.java
+ com.example.note.translate.api2.Rels
+com/example/note/translate/api2/ExamType.java
+ com.example.note.translate.api2.ExamType
+com/example/note/translate/api2/Simple.java
+ com.example.note.translate.api2.Simple
+com/example/note/BuildConfig.java
+ com.example.note.BuildConfig
+com/example/note/translate/api2/Rel_word.java
+ com.example.note.translate.api2.Rel_word
+com/example/note/translate/api2/Sents_data.java
+ com.example.note.translate.api2.Sents_data
+com/example/note/translate/api2/Word_videos.java
+ com.example.note.translate.api2.Word_videos
+com/example/note/translate/api2/Word.java
+ com.example.note.translate.api2.Word
+com/example/note/translate/api2/Video.java
+ com.example.note.translate.api2.Video
+com/example/note/translate/api2/Cls.java
+ com.example.note.translate.api2.Cls
+com/example/note/translate/api2/Etym.java
+ com.example.note.translate.api2.Etym
+com/example/note/translate/api2/Tran_entry.java
+ com.example.note.translate.api2.Tran_entry
+com/example/note/translate/api2/Sents.java
+ com.example.note.translate.api2.Sents
+com/example/note/translate/api2/OxfordAdvance.java
+ com.example.note.translate.api2.OxfordAdvance
+com/example/note/translate/api2/Blng_sents_part.java
+ com.example.note.translate.api2.Blng_sents_part
+com/example/note/translate/api2/Sent.java
+ com.example.note.translate.api2.Sent
+com/example/note/translate/api2/Summary.java
+ com.example.note.translate.api2.Summary
+com/example/note/translate/api2/Usages.java
+ com.example.note.translate.api2.Usages
+com/example/note/translate/api2/PastExamSents.java
+ com.example.note.translate.api2.PastExamSents
+com/example/note/translate/api2/Chars.java
+ com.example.note.translate.api2.Chars
+com/example/note/translate/api2/Media_sents_part.java
+ com.example.note.translate.api2.Media_sents_part
+com/example/note/translate/api2/Webster.java
+ com.example.note.translate.api2.Webster
+com/example/note/translate/api2/Tran.java
+ com.example.note.translate.api2.Tran
+com/example/note/translate/api2/Expand_ec.java
+ com.example.note.translate.api2.Expand_ec
+com/example/note/translate/api2/Aligned_words.java
+ com.example.note.translate.api2.Aligned_words
+com/example/note/translate/api2/Meta.java
+ com.example.note.translate.api2.Meta
+com/example/note/translate/api2/Special.java
+ com.example.note.translate.api2.Special
+com/example/note/translate/api2/QuestionTypeInfo.java
+ com.example.note.translate.api2.QuestionTypeInfo
+com/example/note/translate/api2/Headword.java
+ com.example.note.translate.api2.Headword
+com/example/note/translate/api2/Super_headwords.java
+ com.example.note.translate.api2.Super_headwords
+com/example/note/translate/api2/EntriesTwo.java
+ com.example.note.translate.api2.EntriesTwo
+com/example/note/translate/api2/Basic_entry.java
+ com.example.note.translate.api2.Basic_entry
+com/example/note/translate/api2/Phrases.java
+ com.example.note.translate.api2.Phrases
+com/example/note/translate/api2/Ad.java
+ com.example.note.translate.api2.Ad
+com/example/note/translate/api2/Sentence_pair.java
+ com.example.note.translate.api2.Sentence_pair
+com/example/note/translate/api2/Wfs.java
+ com.example.note.translate.api2.Wfs
+com/example/note/translate/api2/Pos_entry.java
+ com.example.note.translate.api2.Pos_entry
+com/example/note/translate/api2/Etyms.java
+ com.example.note.translate.api2.Etyms
+com/example/note/translate/api2/Collins_primary.java
+ com.example.note.translate.api2.Collins_primary
+com/example/note/translate/api2/Source.java
+ com.example.note.translate.api2.Source
+com/example/note/translate/api2/Entries.java
+ com.example.note.translate.api2.Entries
+com/example/note/translate/api2/Sense.java
+ com.example.note.translate.api2.Sense
+com/example/note/translate/api2/Word_video.java
+ com.example.note.translate.api2.Word_video
+com/example/note/translate/api2/Words.java
+ com.example.note.translate.api2.Words
+com/example/note/translate/api2/Aligns.java
+ com.example.note.translate.api2.Aligns
+com/example/note/translate/api2/Word_info.java
+ com.example.note.translate.api2.Word_info
+com/example/note/translate/api2/Forms.java
+ com.example.note.translate.api2.Forms
+com/example/note/translate/api2/Phr.java
+ com.example.note.translate.api2.Phr
+com/example/note/translate/api2/Content.java
+ com.example.note.translate.api2.Content
+com/example/note/translate/api2/Return_phrase.java
+ com.example.note.translate.api2.Return_phrase
+com/example/note/translate/api2/Collins_entries.java
+ com.example.note.translate.api2.Collins_entries
+com/example/note/translate/api2/Entry.java
+ com.example.note.translate.api2.Entry
+com/example/note/translate/api2/L.java
+ com.example.note.translate.api2.L
+com/example/note/translate/api2/I.java
+ com.example.note.translate.api2.I
+com/example/note/translate/api2/Snippets.java
+ com.example.note.translate.api2.Snippets
+com/example/note/translate/api2/Sources.java
+ com.example.note.translate.api2.Sources
+com/example/note/translate/api2/Gramcat.java
+ com.example.note.translate.api2.Gramcat
+com/example/note/translate/api2/YoudaoBean.java
+ com.example.note.translate.api2.YoudaoBean
+com/example/note/translate/api2/ExamInfo.java
+ com.example.note.translate.api2.ExamInfo
+com/example/note/translate/api2/Tc.java
+ com.example.note.translate.api2.Tc
+com/example/note/translate/api2/Examples.java
+ com.example.note.translate.api2.Examples
+com/example/note/translate/api2/Synos.java
+ com.example.note.translate.api2.Synos
+com/example/note/translate/api2/Web_translation.java
+ com.example.note.translate.api2.Web_translation
+com/example/note/translate/api2/OxfordAdvanceHtml.java
+ com.example.note.translate.api2.OxfordAdvanceHtml
+com/example/note/translate/api2/Senses.java
+ com.example.note.translate.api2.Senses
+com/example/note/translate/api2/Src.java
+ com.example.note.translate.api2.Src
+com/example/note/translate/api2/TransList.java
+ com.example.note.translate.api2.TransList
+com/example/note/translate/api2/Auth_sents_part.java
+ com.example.note.translate.api2.Auth_sents_part
+com/example/note/translate/api2/Wikipedia_digest.java
+ com.example.note.translate.api2.Wikipedia_digest
+com/example/note/translate/api2/Trs.java
+ com.example.note.translate.api2.Trs
