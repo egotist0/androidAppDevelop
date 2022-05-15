@@ -9,4 +9,8 @@
   3. 未完成笔记条目的弹窗提醒
   4. 应用界面壁纸切换，日间/夜间模式切换
 
-> 参考至https://github.com/hkustsungod-coder/biji-P1，https://github.com/HKUSTsungod/Piggy-Note，https://www.bilibili.com/video/BV1m4411z7C8
+> 参考至b站笔记教程（原java改写为kotlin），并添加了作业中所学的新功能进行整合（翻译，日夜间模式，消息提醒，壁纸等）
+>
+> + https://github.com/hkustsungod-coder/biji-P1
+> + https://github.com/HKUSTsungod/Piggy-Note
+> + https://www.bilibili.com/video/BV1m4411z7C8
