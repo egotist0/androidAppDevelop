@@ -8,3 +8,5 @@
   2. 翻译功能的实现，在新笔记创建时可以实时查找对应的中英文（支持英汉互译）
   3. 未完成笔记条目的弹窗提醒
   4. 应用界面壁纸切换，日间/夜间模式切换
+
+> 参考至https://github.com/hkustsungod-coder/biji-P1，https://github.com/HKUSTsungod/Piggy-Note，https://www.bilibili.com/video/BV1m4411z7C8
