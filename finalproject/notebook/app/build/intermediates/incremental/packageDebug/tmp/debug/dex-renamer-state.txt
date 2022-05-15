@@ -1,7 +1,7 @@
-#Sat May 14 10:44:28 CST 2022
-base.1=/media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+#Sun May 15 08:03:46 CST 2022
+base.1=/media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 path.1=classes.dex
-base.0=/media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.0=/media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

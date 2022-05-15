@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/egotist/.gradle/caches/transforms-2/files-2.1/8371805e56b7bf03f97a4e86324328f8/material-1.2.1/res/values-night-v8/values-night-v8.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/res/values-night/themes.xml",
+                    "source": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

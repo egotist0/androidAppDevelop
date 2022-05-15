@@ -10,8 +10,8 @@
         <option name="gradleJvm" value="Android Studio default JDK" />
         <option name="modules">
           <set>
-            <option value="/media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook" />
-            <option value="/media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app" />
+            <option value="/media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook" />
+            <option value="/media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

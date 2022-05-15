@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
 MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:2:1-9:12
 MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.2.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/8371805e56b7bf03f97a4e86324328f8/material-1.2.1/AndroidManifest.xml:17:1-24:12
@@ -43,31 +43,31 @@ MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /home/egotist/.gradle/
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/215f901d8c881c4b7300ec8800587a52/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/acedb2061cfd0fb3c7f7612ae74b3e01/lifecycle-viewmodel-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f98f2ff198c6adf60b8266c8d2620c05/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:4:5-31
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:6:5-67
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:8:5-38:19
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:8:5-38:19
 MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:7:5-20
 MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:7:5-20
 MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:7:5-20
@@ -85,69 +85,69 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/egoti
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /home/egotist/.gradle/caches/transforms-2/files-2.1/5a0a0080d8acb4a7e3670212309bc199/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:9:9-28
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:9:9-28
 activity#com.example.note.wallpaper
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:16:9-18:39
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:16:9-18:39
 	android:exported
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:18:13-36
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:18:13-36
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:17:13-38
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:17:13-38
 activity#com.example.note.EditActivity
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:19:9-50
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:19:9-50
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:19:19-47
 activity#com.example.note.MainActivity
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:20:9-26:20
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:20:19-47
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:20:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.example.note.UserSettingsActivity
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:27:9-58
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:27:9-58
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:27:19-55
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:27:19-55
 activity#com.example.note.translate.TranslateActivity
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:28:9-65
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:28:9-65
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:28:19-62
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:28:19-62
 provider#androidx.core.content.FileProvider
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:29:9-37:20
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:29:9-37:20
 	android:grantUriPermissions
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:33:13-47
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:33:13-47
 	android:authorities
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:31:13-76
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:31:13-76
 	android:exported
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:32:13-37
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:30:13-62
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:30:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:34:13-36:54
+ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:34:13-36:54
 	android:resource
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:36:17-51
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:36:17-51
 	android:name
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml:35:17-67
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml:35:17-67
 uses-sdk
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
 MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:5:5-44
 MERGED from [org.koin:koin-androidx-viewmodel:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/5953e316f4c1680c57e8068b7b890b22/koin-androidx-viewmodel-2.2.0-rc-3/AndroidManifest.xml:5:5-44
 MERGED from [org.koin:koin-androidx-scope:2.2.0-rc-3] /home/egotist/.gradle/caches/transforms-2/files-2.1/f5ad1d1bbc4f36bb3114ed83781bdca2/koin-androidx-scope-2.2.0-rc-3/AndroidManifest.xml:5:5-44
@@ -226,13 +226,13 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-beta01] /home/egotist/
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-beta01] /home/egotist/.gradle/caches/transforms-2/files-2.1/acedb2061cfd0fb3c7f7612ae74b3e01/lifecycle-viewmodel-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f98f2ff198c6adf60b8266c8d2620c05/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/egotist/.gradle/caches/transforms-2/files-2.1/f98f2ff198c6adf60b8266c8d2620c05/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
-		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+		ADDED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml
+		INJECTED from /media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/src/main/AndroidManifest.xml

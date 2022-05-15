@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/notebook_update4.0/notebook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/media/egotist/OS/UBUNTU/大三下/androidDevelop/finalproject/notebook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/home/egotist/.gradle/caches/transforms-2/files-2.1/625aed1e19e002d1916f9ec542ed42b0/appcompat-1.2.0/res/values-en-rGB/values-en-rGB.xml",

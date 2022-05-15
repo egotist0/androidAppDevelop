@@ -10,8 +10,10 @@
 
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-
+    <color name="darkpurple">#330066</color>
+    <color name="pink">#FFF0F5</color>
     <color name="fabColor1">#ffbbbb</color>
+    <color name="yellow">#ccff33</color>
     <color name="near_black">#3b3b3b</color>
     <color name="greyC">#cccccc</color>
     <color name="grey9">#999999</color>

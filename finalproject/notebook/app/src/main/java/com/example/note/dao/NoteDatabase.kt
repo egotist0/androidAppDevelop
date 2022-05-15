@@ -51,8 +51,8 @@ class NoteDatabase(context: Context?) : SQLiteOpenHelper(context, "notes", null,
         db.execSQL(
             "CREATE TABLE " + TABLE_NAME + "(" + ID
                     + " INTEGER PRIMARY KEY AUTOINCREMENT, "
-                    + CONTENT + " TEXT, "
-                    + TIME + " TEXT, "
+                    + CONTENT + " TEXT NOT NULL, "
+                    + TIME + " TEXT NOT NULL, "
                     + MODE + " INTEGER DEFAULT 1,"
                     + IMAGE + " TEXT,"
                     + VIDEO + " TEXT,"

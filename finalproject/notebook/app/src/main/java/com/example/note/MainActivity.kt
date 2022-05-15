@@ -264,6 +264,18 @@ class MainActivity : BaseActivity(), OnItemClickListener {
         } else {
         }
 
+        //接收input的值
+//        String content = data.getStringExtra("content");
+        //打印接收到的文字
+//        Log.d(TAG, edit);
+        //将接收到的文字写入到tv中
+//        tv.setText(edit);
+//        String time = data.getStringExtra("time");
+//        Note note = new Note(content,time,1);
+//        CRUD op = new CRUD(context);
+//        op.open();
+//        op.addNote(note);
+//        op.close();
         refreshListView() //访问数据库后就进行刷新
         super.onActivityResult(requestCode, resultCode, data)
     }

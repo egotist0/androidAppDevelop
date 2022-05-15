@@ -961,6 +961,7 @@ color colorAccent
 color colorPrimaryDark
 color cover
 color darkgrey
+color darkpurple
 color design_bottom_navigation_shadow_color
 color design_box_stroke_color
 color design_dark_default_color_background
@@ -1100,6 +1101,7 @@ color notification_action_color_filter
 color notification_icon_bg_color
 color o
 color p
+color pink
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1138,6 +1140,7 @@ color u
 color w
 color white
 color y
+color yellow
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material

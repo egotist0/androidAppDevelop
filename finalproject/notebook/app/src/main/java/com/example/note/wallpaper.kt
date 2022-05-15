@@ -22,6 +22,10 @@ class wallpaper : BaseActivity() {
         findViewById<View>(R.id.wall_a).setOnClickListener {
 
             window.setBackgroundDrawableResource(R.mipmap.background1)
+//            var sharedPreferences = getSharedPreferences("bg_a", MODE_PRIVATE)
+//            val editor: SharedPreferences.Editor = sharedPreferences.edit()
+//            editor.putString("name", "A")
+//            editor.commit()
 
             // modify
             wpModel.putSp(
